@@ -111,7 +111,7 @@ def list_notes_from_db(query=None):
 
 
 #
-# MAIN
+# MAIN zmiana nr 3
 #
 st.set_page_config(page_title="Audio Notatki", layout="centered")
 
