@@ -1,1 +1,1 @@
-print ("hej witajcie")
+print ("hej witajcie drodzy")
